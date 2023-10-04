@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import UINT8_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8-num-bytes@deno/mod.js';
+import UINT8_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8-num-bytes@v0.1.1-deno/mod.js';
 ```
 
 #### UINT8_NUM_BYTES
@@ -67,7 +67,7 @@ var bool = ( UINT8_NUM_BYTES === 1 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import UINT8_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8-num-bytes@deno/mod.js';
+import UINT8_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8-num-bytes@v0.1.1-deno/mod.js';
 
 console.log( UINT8_NUM_BYTES );
 // => 1
