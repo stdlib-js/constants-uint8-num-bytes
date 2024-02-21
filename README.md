@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import UINT8_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8-num-bytes@esm/index.mjs';
+import UINT8_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8-num-bytes@v0.2.1-esm/index.mjs';
 ```
 
 #### UINT8_NUM_BYTES
@@ -72,7 +72,7 @@ var bool = ( UINT8_NUM_BYTES === 1 );
 <body>
 <script type="module">
 
-import UINT8_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8-num-bytes@esm/index.mjs';
+import UINT8_NUM_BYTES from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint8-num-bytes@v0.2.1-esm/index.mjs';
 
 console.log( UINT8_NUM_BYTES );
 // => 1
